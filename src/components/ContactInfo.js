@@ -11,4 +11,4 @@ class ContactInfo extends Component{
     }
 }
 
-export default ContactInfo;
+export default ContactInfo; 
