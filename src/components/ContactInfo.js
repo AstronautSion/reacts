@@ -7,7 +7,7 @@ class ContactInfo extends Component{
                 {this.props.contact.name}
                 {this.props.contact.phone}
             </div>
-        );
+        ); 
     }
 }
 
